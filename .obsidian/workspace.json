@@ -4,28 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b7373aaba95739d9",
+        "id": "04dc07149479128c",
         "type": "tabs",
         "children": [
           {
-            "id": "5246d9c015d899e6",
+            "id": "c23ace8b68f4aa87",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "6 - Main Notes/PortSwigger/ProjectBoard/PortSwigger Board.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
-              },
-              "icon": "lucide-trello",
-              "title": "PortSwigger Board"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -168,8 +157,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -178,8 +167,8 @@
             "state": {
               "type": "Strange New Worlds",
               "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -198,8 +187,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -208,12 +197,42 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "cfcc0256b57f37f4",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Timeline"
             }
+          },
+          {
+            "id": "3b82ea58c5f24dd1",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "7d884e3af98808de",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -238,7 +257,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "de0f827f75557ecc",
+  "active": "7d884e3af98808de",
   "lastOpenFiles": [
     "6 - Main Notes/PortSwigger/ProjectBoard/01- In Progress/Review SQL injection Lab.md",
     "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/3 - SQL injection vulnerability allowing login bypass.md",
