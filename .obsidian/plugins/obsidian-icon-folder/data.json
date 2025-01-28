@@ -1,0 +1,40 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "IbBeaker",
+      "LiBrain",
+      "LiWorkflow",
+      "✍",
+      "💡"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/1 - Learning Material.md": "LiBrain",
+  "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/2 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md": "IbBeaker",
+  "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/3 - SQL injection vulnerability allowing login bypass.md": "IbBeaker"
+}

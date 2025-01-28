@@ -1,0 +1,64 @@
+{
+  "recentFiles": [
+    {
+      "basename": "PortSwigger Board",
+      "path": "6 - Main Notes/PortSwigger/ProjectBoard/PortSwigger Board.md"
+    },
+    {
+      "basename": "Review SQL injection Lab",
+      "path": "6 - Main Notes/PortSwigger/ProjectBoard/01- In Progress/Review SQL injection Lab.md"
+    },
+    {
+      "basename": "3 - SQL injection vulnerability allowing login bypass",
+      "path": "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/3 - SQL injection vulnerability allowing login bypass.md"
+    },
+    {
+      "basename": "SQL Material PortSwigger",
+      "path": "2 - Source Material/SQL Material PortSwigger.md"
+    },
+    {
+      "basename": "2 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data",
+      "path": "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/2 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md"
+    },
+    {
+      "basename": "1 - Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/1 - Learning Material.md"
+    },
+    {
+      "basename": "Writing Logs",
+      "path": "1 - Logs/Writing Logs.md"
+    },
+    {
+      "basename": "Fleeting Notes",
+      "path": "0 - Fleeting Notes/Fleeting Notes.md"
+    },
+    {
+      "basename": "🟡 In Progress",
+      "path": "3 - Tags/🟡 In Progress.md"
+    },
+    {
+      "basename": "SQL",
+      "path": "3 - Tags/SQL.md"
+    },
+    {
+      "basename": "SignUp for PortSwigger",
+      "path": "6 - Main Notes/PortSwigger/ProjectBoard/03 - Done/SignUp for PortSwigger.md"
+    },
+    {
+      "basename": "🟠 In Review",
+      "path": "3 - Tags/🟠 In Review.md"
+    },
+    {
+      "basename": "🟢 Done",
+      "path": "3 - Tags/🟢 Done.md"
+    },
+    {
+      "basename": "Main Note Template",
+      "path": "5 - Template/Main Note Template.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

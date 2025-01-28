@@ -1,0 +1,280 @@
+{
+  "main": {
+    "id": "33981b5961e9d14e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7373aaba95739d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5246d9c015d899e6",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "6 - Main Notes/PortSwigger/ProjectBoard/PortSwigger Board.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "PortSwigger Board"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e4b2d2b3ac5fe447",
+    "type": "split",
+    "children": [
+      {
+        "id": "e73473df444b9337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92c50c9f35480d94",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6721eff684499134",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0bb3a93cc40c6a8a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "075a23b63879109f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "9e9cfd7e8f3022e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "432cbfd7a0363eb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc1560336dcd76c0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Template/Main Note Template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Main Note Template"
+            }
+          },
+          {
+            "id": "96af77e2e612135f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Template/Main Note Template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Main Note Template"
+            }
+          },
+          {
+            "id": "17970f3486f689dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "11eec500f3e7b284",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Template/Main Note Template.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Main Note Template"
+            }
+          },
+          {
+            "id": "ccad54ce1f8231f8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e175a64f41b4b942",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "de0f827f75557ecc",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "2fed621cf784a5b7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fec013ea2ff284ac",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 279.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
+    }
+  },
+  "active": "de0f827f75557ecc",
+  "lastOpenFiles": [
+    "6 - Main Notes/PortSwigger/ProjectBoard/01- In Progress/Review SQL injection Lab.md",
+    "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/3 - SQL injection vulnerability allowing login bypass.md",
+    "2 - Source Material/SQL Material PortSwigger.md",
+    "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/2 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
+    "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/1 - Learning Material.md",
+    "1 - Logs/Writing Logs.md",
+    "0 - Fleeting Notes/Fleeting Notes.md",
+    "What is SQLi.md",
+    "6 - Main Notes/PortSwigger/ProjectBoard/PortSwigger Board.md",
+    "3 - Tags/🟡 In Progress.md",
+    "3 - Tags/SQL.md",
+    "6 - Main Notes/PortSwigger/ProjectBoard/03 - Done/SignUp for PortSwigger.md",
+    "Untitled Kanban.md",
+    "3 - Tags/🟠 In Review.md",
+    "3 - Tags/🟢 Done.md",
+    "6 - Main Notes/PortSwigger/Labs/30 - Web cache deception",
+    "6 - Main Notes/PortSwigger/Labs/29 - Web LLM attacks",
+    "6 - Main Notes/PortSwigger/Labs/28 - API testing",
+    "6 - Main Notes/PortSwigger/Labs/27 - NoSQL injection",
+    "6 - Main Notes/PortSwigger/Labs/26 - Race conditions",
+    "6 - Main Notes/PortSwigger/Labs/25 - GraphQL API vulnerabilities",
+    "6 - Main Notes/PortSwigger/Labs/24 - Prototype pollution",
+    "6 - Main Notes/PortSwigger/Labs/23 - Essential skills",
+    "6 - Main Notes/PortSwigger/Labs/22 - JWT",
+    "6 - Main Notes/PortSwigger/Labs/21 - File upload vulnerabilities",
+    "6 - Main Notes/ProjectBoard/01- In Progress/Signup for PortSwigger.md",
+    "2025-01-27.md",
+    "5 - Template/Main Note Template.md",
+    "6 - Main Notes/Untitled.md",
+    "5 - Template/Untitled.md",
+    "Untitled 4.md",
+    "Untitled 2.md",
+    "Welcome.md",
+    "Untitled 3.md",
+    "Untitled 5.md",
+    "Untitled 1.md"
+  ]
+}
