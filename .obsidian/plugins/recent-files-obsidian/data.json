@@ -1,6 +1,130 @@
 {
   "recentFiles": [
     {
+      "basename": "Main Note Template",
+      "path": "5 - Template/Main Note Template.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/30 - Web cache deception/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/29 - Web LLM attacks/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/28 - API testing/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/27 - NoSQL injection/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/26 - Race conditions/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/25 - GraphQL API vulnerabilities/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/24 - Prototype pollution/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/23 - Essential skills/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/22 - JWT/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/21 - File upload vulnerabilities/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/20 - OAuth authentication/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/19 - HTTP Host header attacks/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/18 - Business logic vulnerabilities/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/17 - Information disclosure/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/16 - Insecure deserialization/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/15 - Web cache poisoning/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/14 - WebSockets/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/13 - Authentication/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/12 - Access control vulnerabilities/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/11 - Path traversal/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/10 - LABPRACTITIONERBlind OS command injection with out-of-band data exfiltrationNot solvedServer-side template injection/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/09 - OS command injection/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/08 - HTTP request smuggling/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/07 - Server-side request forgery (SSRF)/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/06 - XML external entity (XXE) injection/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/05 - Cross-origin resource sharing (CORS)/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/04 - DOM-based vulnerabilities/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/03 - Clickjacking/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/02 - Cross-site request forgery (CSRF)/Learning Material.md"
+    },
+    {
+      "basename": "Learning Material",
+      "path": "6 - Main Notes/PortSwigger/Labs/01 - Cross-site scripting/Learning Material.md"
+    },
+    {
       "basename": "PortSwigger Board",
       "path": "6 - Main Notes/PortSwigger/ProjectBoard/PortSwigger Board.md"
     },
@@ -51,10 +175,6 @@
     {
       "basename": "🟢 Done",
       "path": "3 - Tags/🟢 Done.md"
-    },
-    {
-      "basename": "Main Note Template",
-      "path": "5 - Template/Main Note Template.md"
     }
   ],
   "omittedPaths": [],

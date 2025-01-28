@@ -1,6 +1,6 @@
 ---
 Created: '"{{date}}T{{time}}"'
-Status: 
+Status: 🟡 In Progress
 Links: 
 Deadline:
 ---

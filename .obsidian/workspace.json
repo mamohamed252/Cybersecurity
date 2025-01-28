@@ -11,10 +11,14 @@
             "id": "c23ace8b68f4aa87",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "5 - Template/Main Note Template.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Main Note Template"
             }
           }
         ]
@@ -257,23 +261,34 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7d884e3af98808de",
+  "active": "c23ace8b68f4aa87",
   "lastOpenFiles": [
-    "6 - Main Notes/PortSwigger/ProjectBoard/01- In Progress/Review SQL injection Lab.md",
-    "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/3 - SQL injection vulnerability allowing login bypass.md",
-    "2 - Source Material/SQL Material PortSwigger.md",
-    "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/2 - SQL injection vulnerability in WHERE clause allowing retrieval of hidden data.md",
-    "6 - Main Notes/PortSwigger/Labs/00 - SQL injection/1 - Learning Material.md",
-    "1 - Logs/Writing Logs.md",
-    "0 - Fleeting Notes/Fleeting Notes.md",
-    "What is SQLi.md",
-    "6 - Main Notes/PortSwigger/ProjectBoard/PortSwigger Board.md",
-    "3 - Tags/🟡 In Progress.md",
-    "3 - Tags/SQL.md",
-    "6 - Main Notes/PortSwigger/ProjectBoard/03 - Done/SignUp for PortSwigger.md",
-    "Untitled Kanban.md",
-    "3 - Tags/🟠 In Review.md",
-    "3 - Tags/🟢 Done.md",
+    "6 - Main Notes/PortSwigger/Labs/30 - Web cache deception/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/24 - Prototype pollution/Untitled.md",
+    "6 - Main Notes/PortSwigger/Labs/29 - Web LLM attacks/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/28 - API testing/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/27 - NoSQL injection/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/26 - Race conditions/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/25 - GraphQL API vulnerabilities/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/24 - Prototype pollution/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/23 - Essential skills/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/22 - JWT/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/21 - File upload vulnerabilities/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/20 - OAuth authentication/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/19 - HTTP Host header attacks/Untitled.md",
+    "6 - Main Notes/PortSwigger/Labs/19 - HTTP Host header attacks/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/18 - Business logic vulnerabilities/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/17 - Information disclosure/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/16 - Insecure deserialization/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/15 - Web cache poisoning/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/14 - WebSockets/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/13 - Authentication/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/12 - Access control vulnerabilities/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/11 - Path traversal/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/10 - LABPRACTITIONERBlind OS command injection with out-of-band data exfiltrationNot solvedServer-side template injection/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/09 - OS command injection/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/08 - HTTP request smuggling/Learning Material.md",
+    "6 - Main Notes/PortSwigger/Labs/07 - Server-side request forgery (SSRF)/Learning Material.md",
     "6 - Main Notes/PortSwigger/Labs/30 - Web cache deception",
     "6 - Main Notes/PortSwigger/Labs/29 - Web LLM attacks",
     "6 - Main Notes/PortSwigger/Labs/28 - API testing",
@@ -283,17 +298,6 @@
     "6 - Main Notes/PortSwigger/Labs/24 - Prototype pollution",
     "6 - Main Notes/PortSwigger/Labs/23 - Essential skills",
     "6 - Main Notes/PortSwigger/Labs/22 - JWT",
-    "6 - Main Notes/PortSwigger/Labs/21 - File upload vulnerabilities",
-    "6 - Main Notes/ProjectBoard/01- In Progress/Signup for PortSwigger.md",
-    "2025-01-27.md",
-    "5 - Template/Main Note Template.md",
-    "6 - Main Notes/Untitled.md",
-    "5 - Template/Untitled.md",
-    "Untitled 4.md",
-    "Untitled 2.md",
-    "Welcome.md",
-    "Untitled 3.md",
-    "Untitled 5.md",
-    "Untitled 1.md"
+    "6 - Main Notes/PortSwigger/Labs/21 - File upload vulnerabilities"
   ]
 }
